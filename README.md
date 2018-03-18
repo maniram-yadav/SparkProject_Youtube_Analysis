@@ -6,17 +6,17 @@ This project has been developement on spark framework for analysis of youtube vi
 Given Youtube video data in the text file. You have to find out the answer of following question
 
 
-* List all the category from text file on which the Youtube video has been Uploaded  **[Solution](https://github.com/maniram-yadav/SparkProject_Youtube_Analysis/blob/master/Extract_Video_Categories.scala)**
+* List all the category from text file on which the Youtube video has been Uploaded. =>  **[Solution](https://github.com/maniram-yadav/SparkProject_Youtube_Analysis/blob/master/Extract_Video_Categories.scala)**
 
-* Find Yout Top 10 rated Youtube videos   **[Solution](https://github.com/maniram-yadav/SparkProject_Youtube_Analysis/blob/master/maximum_rated_video.scala)**
+* Find Yout Top 10 rated Youtube videos. =>. =>   **[Solution](https://github.com/maniram-yadav/SparkProject_Youtube_Analysis/blob/master/maximum_rated_video.scala)**
 
-* Find out the number of videos uploaded on each Category  **[Solution](https://github.com/maniram-yadav/SparkProject_Youtube_Analysis/blob/master/Cat_video_count.scala)**
+* Find out the number of videos uploaded on each Category. =>  **[Solution](https://github.com/maniram-yadav/SparkProject_Youtube_Analysis/blob/master/Cat_video_count.scala)**
 
-* Number of uploaded video by each and every user **[Solution](https://github.com/maniram-yadav/SparkProject_Youtube_Analysis/blob/master/Uploader_Video_Count.scala)**
+* Number of uploaded video by each and every user. => **[Solution](https://github.com/maniram-yadav/SparkProject_Youtube_Analysis/blob/master/Uploader_Video_Count.scala)**
 
-* Find out the Top 10 videos in each and every Category  **[Solution](https://github.com/maniram-yadav/SparkProject_Youtube_Analysis/blob/master/Categorywise_tpVideo.scala)**
+* Find out the Top 10 videos in each and every Category. =>  **[Solution](https://github.com/maniram-yadav/SparkProject_Youtube_Analysis/blob/master/Categorywise_tpVideo.scala)**
 
-* List of user who have uploaded the video on single and multiple Category **[Solution](https://github.com/maniram-yadav/SparkProject_Youtube_Analysis/blob/master/User_singleCategory.scala)**
+* List of user who have uploaded the video on single and multiple Category. => **[Solution](https://github.com/maniram-yadav/SparkProject_Youtube_Analysis/blob/master/User_singleCategory.scala)**
 
 
 ## Data Description
